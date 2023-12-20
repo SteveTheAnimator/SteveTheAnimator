@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SteveTheAnimator
-- 👀 I’m interested in SCP: Containment Breach
-- 📫 To Reach Me My Discord stevetheanimator
+- 👋 Hello there, I am Steve The Animator!
+- 👀 I’m interested in Gorilla Tag, SCP: Containment Breach, and more!
+- 📫 To reach me, friend me on Discord! (stevetheanimator)
 
