@@ -1,22 +1,30 @@
-# Steve The Animator
-All about me I guess!
+# Steve Monke
+A Gorilla Tag Modder that works on mods that can be fun or useful
 
-## What do I do?
-I make mods for a game called Gorilla Tag, develop games, work on GitHub websites    
-And more!
+## My most useful skills
+> 1. I can program mods and games.
+> 
+> 3. I also can find out a ton of stuff about games, even some info most players would not know.
+> 
+> 5. Lastly I can help people with doing things in a breeze.
+> 
 
-## How do I message you?
+## My games
+> Gorilla Odyssey (Working on it!)
+> 
+> steve's nextbots (Working on it!)
+> 
+> Zenflow (Dead)
+> 
+> Stickman's Journey (MASSIVE Update soon!)
+> 
+> Poptart Tag (Corrupted project)
+> 
+> eric cartman poker face.mp4 (Dead)
+> 
+> Coems 🤑 (Dead)
+> 
+> Cat Wizards And Gobo Dragons (Dead)
 
-Easy, you can message me on **DISCORD**     
-Username: stevetheanimator
-
-## Socials
-### Discord Servers 
-[My Main Discord](https://discord.gg/JagXGkKK23)    
-[ZenFlow](https://discord.gg/cPU6kJXPZU)    
-### Youtube Channel(s): 
-[My Main Youtube Channel](https://www.youtube.com/channel/UCP9ZcXmbzTSwrlvOG2iq54A)
-
-## Other
-
-Pansexual, Old enough to be on Discord.
+## Contact Me!
+> Discord: steve_monke
