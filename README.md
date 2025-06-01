@@ -14,8 +14,10 @@
 🏳️‍🌈 **Pansexual**  
 📢 **14 y/o**
 
-🛠️ **Creator of [Plastic](https://github.com/SteveTheAnimator/Plastic)**  
+🛠️ **Creator of [Plastic](https://github.com/SteveTheAnimator/Plastic)**      
 🎮 **Founder of [QuantumLeap Studios](https://quantumleapstudios.org/)**  
+
+>  Plastic files currently show up as Perl in GitHub repositories. Please ignore this misclassification.
 
 💻 **Languages I Use:**  
 [[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -27,4 +29,3 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![More](https://img.shields.io/badge/And%20More-000000?style=flat&logo=code&logoColor=white)](#)
-
