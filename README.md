@@ -20,7 +20,7 @@
 💻 **Languages I Use:**  
 [[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))]
+[![C#](https://img.shields.io/badge/%23-239120?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))]
 [![Assembly](https://img.shields.io/badge/Assembly-808080?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
