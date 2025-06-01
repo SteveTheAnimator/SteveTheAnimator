@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Steve!
 
-<a href="https://github.com/SteveTheAnimator/github-readme-stats">
+<a href="https://github.com/QuantumLeapStudios/plastic">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator" />
 </a>
 <a href="https://github.com/SteveTheAnimator/SteveOS">
