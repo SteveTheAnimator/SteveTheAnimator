@@ -29,3 +29,7 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![More](https://img.shields.io/badge/And%20More-000000?style=flat&logo=code&logoColor=white)](#)
+
+🎓 **Languages I Am Learning:**  
+[![F#](https://img.shields.io/badge/FSharp-800080?style=flat&logo=fsharp&logoColor=white)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+[![More](https://img.shields.io/badge/And%20More-000000?style=flat&logo=code&logoColor=white)](#)
