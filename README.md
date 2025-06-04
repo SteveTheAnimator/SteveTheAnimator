@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Steve!
 
 <a href="https://github.com/QuantumLeap-Studios/plastic">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator&card_width=323" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator&card_width=325" />
 </a>
 <a href="https://github.com/SteveTheAnimator/SteveOS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveTheAnimator&layout=compact&langs_count=8&card_width=323" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveTheAnimator&layout=compact&langs_count=8&card_width=325" />
 </a>
  
 ---
