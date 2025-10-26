@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-🏳️‍🌈 **Pansexual**  
+🏳️‍🌈 **Pansexual**  (Lag is a hottie and is my little cute femboy :3)
 📢 **14 y/o**
 
 🛠️ **Creator of [Plastic](https://quantumleapstudios.org/plastic)**      
