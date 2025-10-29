@@ -1,24 +1,32 @@
 # 👋 Hey there, I'm Steve!
+<div align="center">
 
-<a href="https://github.com/QuantumLeap-Studios/plastic">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator&card_width=378" />
-</a>
-<a href="https://github.com/SteveTheAnimator/SteveOS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveTheAnimator&layout=compact&langs_count=8&card_width=376" />
-</a>
+  <a href="https://github.com/QuantumLeap-Studios/plastic">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator&show_icons=true&theme=transparent&hide_border=false&card_width=500" 
+      alt="SteveTheAnimator's GitHub Stats" 
+    />
+  </a>
 
+  <a href="https://github.com/SteveTheAnimator/SteveOS">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveTheAnimator&layout=compact&langs_count=8&theme=transparent&hide_border=false&card_width=500" 
+      alt="Top Languages" 
+    />
+  </a>
 
----
+</div>
 
-### 🧠 About Me
+## 🧠 About Me
 
 🏳️‍🌈 **Pansexual**  
 📢 **14 y/o**
 
 🛠️ **Creator of [Plastic](https://quantumleapstudios.org/plastic)**      
 🎮 **Founder of [QuantumLeap Studios](https://quantumleapstudios.org/)**  
-
->  Plastic files currently show up as Perl in GitHub repositories. Please ignore this misclassification.
+🟦 **Creator of [GPhys](https://discord.gg/nMUBFC5SQ8)**
 
 💻 **Languages I Use:**  
 [[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
