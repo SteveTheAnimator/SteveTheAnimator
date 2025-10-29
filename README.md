@@ -31,7 +31,7 @@
 💻 **Languages I Use:**  
 [[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C#](https://img.shields.io/badge/%23-239120?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))]
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))]
 [![Assembly](https://img.shields.io/badge/Assembly-808080?style=flat&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
@@ -43,3 +43,8 @@
 🎓 **Languages I Am Learning:**  
 [![F#](https://img.shields.io/badge/FSharp-800080?style=flat&logo=fsharp&logoColor=white)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 [![More](https://img.shields.io/badge/And%20More-000000?style=flat&logo=code&logoColor=white)](#)
+
+## 📂 Featured Projects
+- 🧱 **[Plastic](https://quantumleapstudios.org/plastic)** – One of my many programing languages
+- 💾 **[SteveOS](https://github.com/SteveTheAnimator/SteveOS)** – x86 assembly-based OS kernel project.
+- 🟦 **[GPhys](https://discord.gg/nMUBFC5SQ8)** - One of my biggest projects yet, a Gorilla Tag sandbox mod that finally has effort put into it.
