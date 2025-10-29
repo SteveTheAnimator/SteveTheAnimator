@@ -4,7 +4,7 @@
   <a href="https://github.com/QuantumLeap-Studios/plastic">
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator&show_icons=true&theme=transparent&hide_border=false&card_width=500" 
+      src="https://github-readme-stats.vercel.app/api?username=SteveTheAnimator&show_icons=true&theme=transparent&hide_border=false&card_width=450" 
       alt="SteveTheAnimator's GitHub Stats" 
     />
   </a>
@@ -12,7 +12,7 @@
   <a href="https://github.com/SteveTheAnimator/SteveOS">
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveTheAnimator&layout=compact&langs_count=8&theme=transparent&hide_border=false&card_width=500" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=SteveTheAnimator&layout=compact&langs_count=8&theme=transparent&hide_border=false&card_width=450" 
       alt="Top Languages" 
     />
   </a>
