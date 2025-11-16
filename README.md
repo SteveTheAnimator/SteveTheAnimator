@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 🏳️‍🌈 **Pansexual**  
-📢 **14 y/o**
+📢 **15 y/o**
 
 🛠️ **Creator of [Plastic](https://quantumleapstudios.org/plastic)**      
 🎮 **Founder of [QuantumLeap Studios](https://quantumleapstudios.org/)**  
