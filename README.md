@@ -1,7 +1,8 @@
-# 👋 Hey there, I'm Steve!
+# 👋 Hey there, I'm Rhosyn!
 ## 🧠 About Me
 
 🏳️‍🌈 **Pansexual**  
+🏳️‍⚧️ **Trans** *(MtF)*
 📢 **15 y/o**
 
 🛠️ **Creator of [Plastic](https://quantumleapstudios.org/plastic)**      
