@@ -2,7 +2,7 @@
 ## 🧠 About Me
 
 🏳️‍🌈 **Pansexual**  
-🏳️‍⚧️ **Trans** *(MtF)*
+🏳️‍⚧️ **Trans** *(MtF)*  
 📢 **15 y/o**
 
 🛠️ **Creator of [Plastic](https://quantumleapstudios.org/plastic)**      
