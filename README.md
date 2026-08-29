@@ -3,7 +3,7 @@
 
 🏳️‍🌈 **Pansexual**  
 🏳️‍⚧️ **Trans** *(MtF)*  
-📢 **16 y/o**
+📢 **14 y/o**
     
 🟦 **Creator of [GPhys](https://developer.quantumleapstudios.org/GPhys)**
 
